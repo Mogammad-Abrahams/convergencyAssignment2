@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Convergency\bin\Debug\netcoreapp3.1\Convergency.exe
+C:\Users\Admin\source\repos\Convergency\bin\Debug\netcoreapp3.1\Convergency.deps.json
+C:\Users\Admin\source\repos\Convergency\bin\Debug\netcoreapp3.1\Convergency.runtimeconfig.json
+C:\Users\Admin\source\repos\Convergency\bin\Debug\netcoreapp3.1\Convergency.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Convergency\bin\Debug\netcoreapp3.1\Convergency.dll
+C:\Users\Admin\source\repos\Convergency\bin\Debug\netcoreapp3.1\Convergency.pdb
+C:\Users\Admin\source\repos\Convergency\obj\Debug\netcoreapp3.1\Convergency.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Convergency\obj\Debug\netcoreapp3.1\Convergency.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Convergency\obj\Debug\netcoreapp3.1\Convergency.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Convergency\obj\Debug\netcoreapp3.1\Convergency.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Convergency\obj\Debug\netcoreapp3.1\Convergency.dll
+C:\Users\Admin\source\repos\Convergency\obj\Debug\netcoreapp3.1\Convergency.pdb
+C:\Users\Admin\source\repos\Convergency\obj\Debug\netcoreapp3.1\Convergency.genruntimeconfig.cache
